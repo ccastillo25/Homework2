@@ -1,0 +1,27 @@
+nav {
+    background-color: #0066cc;
+    text-align: right;
+}
+h1 {
+    color: #b4b4b4;
+    text-align: center;
+    background-color: #003366;
+    text-decoration: text-underline-offset;
+}
+.card {
+    margin: 0 auto;
+    float: none; 
+    margin-bottom: 10px;
+}
+h2 {
+    font-size: xx-large;
+    text-decoration: underline;
+}
+.portfolio {
+    font-size: large;
+}
+@media screen and (min-width: 992px) {
+    #leftsidebar {width: 100%; float: left;}
+    #main {margin-left: 216px;}
+    #background {color: #003366}
+  }
